@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10;
+    font-family:'Josefin Sans', sans-serif;
+}
+a {
+text-decoration: none;
+}
+.container{
+    min-height: 100vh;
+    min-width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+/*hero aspect*/
+#hero{
+    background-image: url(./);
+}
