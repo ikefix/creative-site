@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "creative-site",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-dev-"
+	}
+}
