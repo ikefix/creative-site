@@ -21,6 +21,7 @@ text-decoration: none;
 /*hero aspect*/
 #hero{
     background-color: yellow;
+    background-image: url(./img/iko.jpeg);
     
     
 }
