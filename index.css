@@ -126,6 +126,24 @@ line-height:2.5rem ;
 letter-spacing: .05rem;
 font-weight: 300;
 }
+#services .service-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#services .service-item{
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url(./img/backg.jpg);
+    margin: 10px 5%;
+}
 /*end of service section*/
 /*keyframes start*/
 @keyframes text_reveal_box {
