@@ -100,7 +100,34 @@ animation-delay: 1s;
     color: white;
     background-color: blueviolet;
 }
-/*keyframes*/
+/*service section*/
+#services{
+}
+#services .services{
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 100% 0;
+}
+#services .section-title {
+    font-size: 4rem;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+#services .service-top p{
+font-size: 1.4rem;
+margin-top: 5px;
+line-height:2.5rem ;
+letter-spacing: .05rem;
+font-weight: 300;
+}
+/*end of service section*/
+/*keyframes start*/
 @keyframes text_reveal_box {
     50%{
         width: 100%;
