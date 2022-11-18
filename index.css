@@ -234,7 +234,10 @@ font-weight: 300;
     flex-basis: 50%;
     height: 300px;
     overflow: hidden;
+    background-color:linear-gradient(60deg, #29323c 0%, #34527c) ;
+    opacity: .7;
 }
+#projects .projects-items:hover .projects-image img 
 /*end of project section*/
 /*keyframes start*/
 @keyframes text_reveal_box {
